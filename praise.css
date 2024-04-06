@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+}
+body{
+    background-color: burlywood;
+}
+h1{
+    font-family: Arial,;
+    font-size: 50px;
+    background-color: beige;
+    text-align: center;
+}
+h4{
+    font-family: 'Forte',;
+    text-emphasis-color: pink;
+    background-color: white;
+    text-align: center;
+}
+.login-site{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    background-color: beige;
+    border-radius: 4px;
+}
+form{
+    width: 120px;
+margin-left: 100px;
+}
+form label{
+    display: flex;
+    margin-top: 50px;
+    font-family: constantia;
+}
+form input{
+    width: 150px;
+    padding: 7px;
+    border: none;
+    border: 1px pink;
+    border-radius: 6px;
+    outline: auto;
+    outline-color: burlywood;
+}
+input[type="button"]{
+    width: 200px;
+    height: 40px;
+    margin-right: 300px;
+    margin-top: 150px;
+    border: none;
+    background-color:burlywood ;
+    color: beige;
+    font-family: 'Forte';
+    font-size: 18px;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+}
+.par1{
+    color: white;
+    margin-top: -10px;
+}
+.par1 a{
+    color: white;
+}
